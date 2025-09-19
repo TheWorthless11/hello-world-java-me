@@ -11,8 +11,7 @@ public class calculator {
     }
 
     public int add(){
-        
-        return a+b+1;
+        return a+b;
     }
 
     public int substract(){
